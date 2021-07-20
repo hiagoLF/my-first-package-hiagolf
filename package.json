@@ -1,5 +1,5 @@
 {
-   "name": "my-first-package-hiagolf",
+   "name": "hiagolf",
    "version": "1.0.0",
    "description": "First package to be published on npm",
    "main": "dist/index.js",
@@ -16,7 +16,7 @@
       "url": "git+https://github.com/hiagoLF/my-first-package-hiagolf.git"
    },
    "keywords": [],
-   "author": "",
+   "author": "hiagolf",
    "license": "ISC",
    "bugs": {
       "url": "https://github.com/hiagoLF/my-first-package-hiagolf/issues"
